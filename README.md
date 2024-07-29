@@ -9,5 +9,5 @@ Tasks Completed
    **- Problems faced in running the interface locally and through URL.** 
 5. Uploaded to GitHub. 
 6. Documented the Project: 
-7. Submit Your Work: 
-- Provide the GitHub repository link. 
+7. Submit Your Work:
+   https://github.com/mani843/AI_Bootcamp
