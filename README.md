@@ -2,7 +2,7 @@
 Assignment: Deploying a Machine Learning Model with Gradio 
 
 Tasks Completed
-1. A Soeech Emotion Recognition (SER) model has been selected.  
+1. A Speech Emotion Recognition (SER) model has been selected.  
 2. Model has been saved and loaded using joblib. 
 3. A Gradio Interface has been created.
 4. Test the Interface: 
