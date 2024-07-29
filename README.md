@@ -6,7 +6,7 @@ Tasks Completed
 2. Model has been saved and loaded using joblib. 
 3. A Gradio Interface has been created.
 4. Test the Interface: 
-   **- Problems faced in running the interface locally and thriugh URL.** 
+   **- Problems faced in running the interface locally and through URL.** 
 5. Uploaded to GitHub. 
 6. Documented the Project: 
 7. Submit Your Work: 
